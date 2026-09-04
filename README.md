@@ -1,6 +1,10 @@
 # A2T1.-Sistema-de-simulacion  / Sistema-de-reparto
 Simulación de un sistema de reparto de comida con repartidores, tiempos de cocina, traslados y retrasos. 
 
+Alumnoss:
+-Dzib Pool Jose Francisco
+-Hoil Puc Brian
+
 Este programa simula un sistema de reparto de comida a domicilio utilizando SimPy. El modelo muetra el flujo completo de un pedido, desde que es generado por un cliente hasta que es entregado por un repartidor, considerando:
 
 - Tiempo de preparación en cocina.
