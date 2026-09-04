@@ -7,6 +7,7 @@ Alumnos:
 
 -Hoil Puc Brian
 
+
 Este programa simula un sistema de reparto de comida a domicilio utilizando SimPy. El modelo muetra el flujo completo de un pedido, desde que es generado por un cliente hasta que es entregado por un repartidor, considerando:
 
 - Tiempo de preparación en cocina.
@@ -19,6 +20,7 @@ Este programa simula un sistema de reparto de comida a domicilio utilizando SimP
   
 
 
+
 Lógica del modelo
 1. Generación de pedidos: Cada cierto intervalo (entre 20 y 25 minutos), se genera un nuevo pedido
 2. Preparación en cocina: Toma ~20 (entre 18 y 22 minutos)
@@ -29,9 +31,11 @@ Lógica del modelo
 
 
 
+
 Que se muestra:
 - Escenario base: Asignación inmediata del repartidor al pedido.
 - Experimento: La app notifica al repartidor con 11 minutos de retraso.
+
 
 
 
