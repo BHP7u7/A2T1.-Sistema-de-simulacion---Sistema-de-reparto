@@ -12,6 +12,7 @@ Este programa simula un sistema de reparto de comida a domicilio utilizando SimP
 - Notificaciones de la aplicación (con posibilidad de retraso).
   
 
+
   Lógica del modelo
 1. Generación de pedidos: Cada cierto intervalo (entre 20 y 25 minutos), se genera un nuevo pedido
 2. Preparación en cocina: Toma ~20 (entre 18 y 22 minutos)
@@ -21,9 +22,11 @@ Este programa simula un sistema de reparto de comida a domicilio utilizando SimP
 6. Entrega al cliente: El viaje final toma ~10 (entre 8 y 12 minutos)
 
 
+
   Que se muestra:
 - Escenario base: Asignación inmediata del repartidor al pedido.
 - Experimento: La app notifica al repartidor con 11 minutos de retraso.
+
 
 
   Al final se calcula:
