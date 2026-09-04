@@ -14,8 +14,6 @@ Este programa simula un sistema de reparto de comida a domicilio utilizando SimP
 - Asignación y traslado de repartidores.
 - Tiempos de espera en el restaurante.
 - Métricas como tiempo en cola (Wq) y tiempo total de servicio (W).
-
-  (Extra)
 - Notificaciones de la aplicación (con posibilidad de retraso).
   
 
