@@ -30,5 +30,5 @@ Que se muestra:
 
 
 Al final se calcula:
-- `Wq`: Tiempo promedio que el repartidor espera en el restaurante.
-- `W`: Tiempo promedio total desde que se genera el pedido hasta que se entrega.
+- Wq: Tiempo promedio que el repartidor espera en el restaurante.
+- W: Tiempo promedio total desde que se genera el pedido hasta que se entrega.
